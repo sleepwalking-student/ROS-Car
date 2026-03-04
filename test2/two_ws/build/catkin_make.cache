@@ -1,0 +1,2 @@
+second
+-DCATKIN_DEVEL_PREFIX=/home/dw/test2/two_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dw/test2/two_ws/install -G Unix Makefiles

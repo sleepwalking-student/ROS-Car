@@ -1,0 +1,2 @@
+three
+-DCATKIN_DEVEL_PREFIX=/home/dw/test3/three_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dw/test3/three_ws/install -G Unix Makefiles

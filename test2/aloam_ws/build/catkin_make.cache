@@ -1,0 +1,2 @@
+A-LOAM
+-DCATKIN_DEVEL_PREFIX=/home/dw/test2/aloam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dw/test2/aloam_ws/install -G Unix Makefiles

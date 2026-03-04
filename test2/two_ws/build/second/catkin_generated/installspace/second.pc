@@ -1,0 +1,8 @@
+prefix=/home/dw/test2/two_ws/install
+
+Name: second
+Description: Description of second
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

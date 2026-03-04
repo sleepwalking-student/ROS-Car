@@ -1,0 +1,8 @@
+prefix=/home/dw/test3/three_ws/devel
+
+Name: three
+Description: Description of three
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
